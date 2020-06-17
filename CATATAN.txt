@@ -1,0 +1,22 @@
+
+scheduller di bidang rendan, lakdan.
+- ketika 1 minggu sebelum kontrak berakhir kirim notifikasi (rendan, lakdan, user, manup3)
+- motifikasi untuk amandemen
+- kontrak berjalan 
+- menu rendan untuk menyelesaikan pekerjaan
+
+- notifikasi vendor utk segera memasukkan berkas tagiahn
+  notif ke mup3, user, rendan, ksa
+
+user ksa
+- status kontrak terbayar.
+ notif ke vendor, mup3
+
+KHS
+-Bidang Rendan
+-Submit ke Lakdan
+-
+
+proses pengadaan
+- notfikiasi user, mup3, lakdan
+- no. 13 notifikasi rendan, dan user
